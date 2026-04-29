@@ -1,5 +1,4 @@
 ## Hi Im BobThePotato
-![Static Badge](https://img.shields.io/badge/MakerWorld-brightgreen?style=for-the-badge&link=https://makerworld.com/en/@user_2950466671)
 
 📌 Pinned Repos
 <!--
